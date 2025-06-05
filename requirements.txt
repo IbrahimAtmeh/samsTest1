@@ -4,7 +4,7 @@ gitdb==4.0.12
 GitPython==3.1.44
 matplotlib-inline==0.1.7
 numpy==2.0.0
-opencv-python-contrib-headless
+opencv-python-headless
 openpyxl==3.1.5
 packaging==24.2
 pandas==2.2.3
